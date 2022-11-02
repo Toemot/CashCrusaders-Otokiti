@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CashCrusaders-Otokiti.App", "CashCrusaders-Otokiti.App\CashCrusaders-Otokiti.App.csproj", "{D550C533-6A5C-4101-B954-DB7FB5C50247}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CashCrusaders-Otokiti.DataAccess", "CashCrusaders-Otokiti.DataAccess\CashCrusaders-Otokiti.DataAccess.csproj", "{FBF25054-BA7B-43EA-98A9-8A7342A67702}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D550C533-6A5C-4101-B954-DB7FB5C50247}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D550C533-6A5C-4101-B954-DB7FB5C50247}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D550C533-6A5C-4101-B954-DB7FB5C50247}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D550C533-6A5C-4101-B954-DB7FB5C50247}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBF25054-BA7B-43EA-98A9-8A7342A67702}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBF25054-BA7B-43EA-98A9-8A7342A67702}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBF25054-BA7B-43EA-98A9-8A7342A67702}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBF25054-BA7B-43EA-98A9-8A7342A67702}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9525257C-FEFE-4406-9566-E2F384F3CFC9}
+	EndGlobalSection
+EndGlobal
